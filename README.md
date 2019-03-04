@@ -1,6 +1,6 @@
 # FriendlyChat
 
-This repository contains code based on Chat project in the [Firebase in a Weekend: Android by Google].
+This repository contains code based on Chat project in Android and firebase.
 
 ## Overview
 
